@@ -38,7 +38,7 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil0601&theme=dracula" alt="swapnil0601" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil0601&theme=tokyonight" alt="swapnil0601" /></p>
 
 ---
 
@@ -46,10 +46,10 @@
 
  <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil0601&&show_icons=true&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil0601&&show_icons=true&theme=tokyonight&locale=en" />
     </a>
     <a href="">
-      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil0601&theme=dracula&hide=glsl,python"/>
+      <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil0601&theme=tokyonight&hide=glsl,python"/>
     </a>
 </div
 
