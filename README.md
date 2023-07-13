@@ -3,10 +3,10 @@
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
-- 🔭 I’m currently working on **Frontend and Backend development technologies like Javascript,** 
-      <br> **NodeJs, React etc.**
+- 🔭 I’m currently working on **Frontend and Backend development technologies like NEXTJS,** 
+      <br> **Prisma, Express etc.**
 
-- 🌱 I’m currently learning about **MERN Stack development.**
+- 🌱 I’m currently learning about **Typescript.**
 
 - 📫 How to reach me **workforswapnil06@gmail.com**
 
